@@ -28,11 +28,12 @@ var displayProducts = function(){
     })
 }
 
+/*User Chooses Product to Buy & How Many*/
 var shoppingCart = function(){
     inquirer.prompt([{
         name: "ProductID",
         type: "input",
-        message: "Which product would you like to buy?",
+        message: "Which product ID would you like to buy?",
 
         validate: function(value){
             if(isNaN(value) == false){
