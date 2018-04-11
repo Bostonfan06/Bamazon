@@ -1,3 +1,5 @@
+/*Bamazon Database
+
 CREATE DATABASE bamazon;
 
 USE bamazon;
