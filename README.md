@@ -1,6 +1,11 @@
 # Bamazon Homework Assignment
 
-### We had to create an application utilizing MySQL and NodeJS. This particular application takes in the command node.js "name of file" and brings up the list of inventory.
+##### In this assignment, we had to create an Amazon-like storefront with MySQL and Node.js. This app will take in orders from a customers and depete stock from the store's inventory. 
 
-The user then enters the required information. If an error occurs, then it will prompt you there is Insufficient Quantity. ENJOY!
+##### Check out the screenshots below for demonstration. 
+
+![Image of Inventory](/screenshots/How Many Product to Buy.png)
+
+
+
 
