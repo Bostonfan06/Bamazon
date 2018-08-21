@@ -1,6 +1,8 @@
 # Bamazon Homework Assignment
 
-#### In this assignment, we had to create an Amazon-like storefront with MySQL and Node.js. This app will take in orders from a customers and depete stock from the store's inventory. The technologies we used are below:
+In this assignment, we had to create an Amazon-like storefront with MySQL and Node.js. This app will take in orders from a customers and update stock from the store's inventory. The technologies we used are below:
+
+## Built With
 
 * HTML
 * CSS
@@ -9,7 +11,7 @@
 * MySQL
 * Node.js
 
-##### Check out the screenshots folder for demonstration. 
+### Check out the Screenshot Folder to see the demonstration!  
 
 
 
